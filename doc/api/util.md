@@ -295,7 +295,7 @@ applications and modules should be updated to find alternative approaches.
 
 ### util.debug(string)
 
-> Stability: 0 - Deprecated: Use [`console.error()`][] instead.
+> Stability: 0 - Deprecated: Use [`console.debug()`][] instead.
 
 * `string` {string} The message to print to `stderr`
 
